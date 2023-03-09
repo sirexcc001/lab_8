@@ -1,4 +1,4 @@
-﻿namespace lab_08
+﻿namespace micheal_scott
 {
     partial class Form1
     {

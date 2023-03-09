@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace lab_08.Properties
+namespace micheal_scott.Properties
 {
 
 
