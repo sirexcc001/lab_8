@@ -1,0 +1,6 @@
+D:\ooc\lab_08\micheal_scott\micheal_scott\obj\Debug\micheal_scott.csproj.AssemblyReference.cache
+D:\ooc\lab_08\micheal_scott\micheal_scott\obj\Debug\micheal_scott.csproj.SuggestedBindingRedirects.cache
+D:\ooc\lab_08\micheal_scott\micheal_scott\obj\Debug\micheal_scott.Form1.resources
+D:\ooc\lab_08\micheal_scott\micheal_scott\obj\Debug\micheal_scott.Properties.Resources.resources
+D:\ooc\lab_08\micheal_scott\micheal_scott\obj\Debug\micheal_scott.csproj.GenerateResource.cache
+D:\ooc\lab_08\micheal_scott\micheal_scott\obj\Debug\micheal_scott.csproj.CoreCompileInputs.cache

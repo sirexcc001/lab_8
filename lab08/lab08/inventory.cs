@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace micheal_scott
+namespace lab08
 {
     internal class inventory
     {

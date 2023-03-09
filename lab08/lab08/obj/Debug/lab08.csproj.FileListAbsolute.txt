@@ -1,0 +1,3 @@
+D:\ooc\lab_08\lab08\lab08\obj\Debug\lab08.csproj.AssemblyReference.cache
+D:\ooc\lab_08\lab08\lab08\obj\Debug\lab08.csproj.SuggestedBindingRedirects.cache
+D:\ooc\lab_08\lab08\lab08\obj\Debug\lab08.csproj.CoreCompileInputs.cache
